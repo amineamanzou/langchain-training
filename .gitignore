@@ -15,8 +15,14 @@ venv/
 # Notebooks
 .ipynb_checkpoints/
 
+# Local-only training work
+practice/
+workspace/
+data/
+artifacts/
+outputs/
+
 # OS / editor
 .DS_Store
 .idea/
 .vscode/
-
